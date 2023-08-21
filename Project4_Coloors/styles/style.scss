@@ -1,0 +1,15 @@
+@font-face {
+    font-family: mulish-regular;
+    src: url(../fonts/Mulish/static/Mulish-Medium.ttf);
+}
+
+@font-face {
+    font-family: mulish-bold;
+    src: url(../fonts/Mulish/static/Mulish-Bold.ttf);
+}
+
+@import "global";
+@import "colors";
+@import "panels";
+@import "sliders";
+@import "containers";
